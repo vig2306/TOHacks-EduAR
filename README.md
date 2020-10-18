@@ -108,7 +108,7 @@ Download Microsoft Visual Studio (https://visualstudio.microsoft.com)
 #### Build and install using Unity 
 1. Clone the repo
 ```sh
-   
+   https://github.com/vig2306/TOHacks-EduAR.git
 ```
 2. Open Unity Hub
 3. Click on Add Project
@@ -124,7 +124,7 @@ Download Microsoft Visual Studio (https://visualstudio.microsoft.com)
 #### Install Directly on Android Device:
 
 1. Download the APK file: 
-        
+        https://drive.google.com/file/d/1GebplM3PbUfoyXRFFxQc2HTL0s0nHX3p/view?usp=sharing
 2. Install the app on your mobile phone.
 
 
